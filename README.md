@@ -5,6 +5,8 @@ WebBrowser Extensions
 
 Licensed under [ISC license](https://opensource.org/licenses/ISC).
 
-More details: http://stackoverflow.com/a/22262976/1768303.
+More details: 
+* http://stackoverflow.com/a/22262976/1768303
+* http://stackoverflow.com/a/29134870/1841836
 
 TODO: add a pool of `WebBrowser` objects and throttle the number of concurrent downloads, [more details](http://stackoverflow.com/a/23819021). 
